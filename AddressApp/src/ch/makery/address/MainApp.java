@@ -36,6 +36,7 @@ public class MainApp extends Application {
 	 */
 	private ObservableList<Person> personData = FXCollections.observableArrayList();
 	
+	//앱 다 만들었다 
 	
 	 /**
      * 생성자
